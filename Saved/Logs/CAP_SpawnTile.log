@@ -2886,3 +2886,579 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.01.11-00.42.12:735][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
 [2025.01.11-00.42.13:517][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
 [2025.01.11-00.42.13:739][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.01.11-00.45.06:018][575]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2476.002197
+[2025.01.11-00.45.07:017][578]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.11-00.45.07:017][579]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2476.668945, Update Interval: 322.524475
+[2025.01.11-00.51.21:918][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.01.11-00.51.22:464][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-00.51.22:501][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnTile/Player/BP_PC_SpawnTile] ([2] browsable assets)...
+[2025.01.11-00.51.22:501][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/Player/BP_PC_SpawnTile]
+[2025.01.11-00.51.22:520][227]LogSavePackage: Moving output files for package: /Game/SpawnTile/Player/BP_PC_SpawnTile
+[2025.01.11-00.51.22:523][227]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/BP_PC_SpawnTileD675705845F4E5B772232599290E89C9.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/Player/BP_PC_SpawnTile.uasset'
+[2025.01.11-00.51.22:532][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.606 ms (total: 2.82 sec)
+[2025.01.11-00.51.22:571][227]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-00.51.22:571][227]LogContentValidation: Enabled validators:
+[2025.01.11-00.51.22:571][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-00.51.22:571][227]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-00.51.22:571][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-00.51.22:571][227]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-00.51.22:571][227]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-00.51.22:571][227]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-00.51.22:571][227]AssetCheck: /Game/SpawnTile/Player/BP_PC_SpawnTile Validating asset
+[2025.01.11-00.51.28:375][298]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2858.367188
+[2025.01.11-00.51.29:375][301]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.11-00.51.29:375][301]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2859.033691, Update Interval: 306.568207
+[2025.01.11-00.52.54:278][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.01.11-00.52.55:324][442]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-00.52.55:361][442]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnTile/Player/BP_PC_SpawnTile] ([2] browsable assets)...
+[2025.01.11-00.52.55:361][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/Player/BP_PC_SpawnTile]
+[2025.01.11-00.52.55:378][442]LogSavePackage: Moving output files for package: /Game/SpawnTile/Player/BP_PC_SpawnTile
+[2025.01.11-00.52.55:381][442]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/BP_PC_SpawnTile7B9F9C2640C2335589B99A9934BBDA00.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/Player/BP_PC_SpawnTile.uasset'
+[2025.01.11-00.52.55:389][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.339 ms (total: 2.89 sec)
+[2025.01.11-00.52.55:429][442]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-00.52.55:429][442]LogContentValidation: Enabled validators:
+[2025.01.11-00.52.55:429][442]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-00.52.55:429][442]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-00.52.55:429][442]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-00.52.55:429][442]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-00.52.55:429][442]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-00.52.55:429][442]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-00.52.55:430][442]AssetCheck: /Game/SpawnTile/Player/BP_PC_SpawnTile Validating asset
+[2025.01.11-00.53.11:289][916]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.01.11-00.53.11:298][916]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.01.11-00.53.11:314][916]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.01.11-00.53.11:327][917]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.01.11-00.53.23:246][143]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_HUD_DeadOverlay
+[2025.01.11-00.53.23:253][143]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.01.11-00.53.43:033][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.01.11-00.53.43:041][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-00.53.43:077][559]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnTile/HUD/WB_HUD_DeadOverlay] ([2] browsable assets)...
+[2025.01.11-00.53.43:078][559]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/SpawnTile/HUD/WB_HUD_DeadOverlay.WB_HUD_DeadOverlay]
+[2025.01.11-00.53.43:078][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/HUD/WB_HUD_DeadOverlay]
+[2025.01.11-00.53.43:081][559]LogSavePackage: Moving output files for package: /Game/SpawnTile/HUD/WB_HUD_DeadOverlay
+[2025.01.11-00.53.43:081][559]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/WB_HUD_DeadOverlay0FDC03004B3304C6A64452A5B4B22696.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/HUD/WB_HUD_DeadOverlay.uasset'
+[2025.01.11-00.53.43:093][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.113 ms (total: 2.94 sec)
+[2025.01.11-00.53.43:136][559]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-00.53.43:136][559]LogContentValidation: Enabled validators:
+[2025.01.11-00.53.43:136][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-00.53.43:136][559]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-00.53.43:136][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-00.53.43:136][559]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-00.53.43:136][559]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-00.53.43:136][559]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-00.53.43:137][559]AssetCheck: /Game/SpawnTile/HUD/WB_HUD_DeadOverlay Validating asset
+[2025.01.11-00.53.44:974][752]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/SpawnTile/HUD/WB_HUD_DeadOverlay.WB_HUD_DeadOverlay
+[2025.01.11-00.53.44:974][752]LogChaosDD: Creating Chaos Debug Draw Scene for world World_11
+[2025.01.11-00.53.44:982][752]LogChaosDD: Creating Chaos Debug Draw Scene for world World_12
+[2025.01.11-00.53.44:988][752]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.01.11-00.53.45:118][752]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2025.01.11-00.53.45:119][752]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2025.01.11-00.53.46:727][752]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.01.11-00.53.46:728][752]LogSlate: Took 0.000425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.01.11-00.54.15:677][ 98]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.11-00.54.30:621][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.11-00.54.32:627][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-00.54.32:660][ 54]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnTile/HUD/WB_HUD_DeadOverlay] ([2] browsable assets)...
+[2025.01.11-00.54.32:661][ 54]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/SpawnTile/HUD/WB_HUD_DeadOverlay.WB_HUD_DeadOverlay]
+[2025.01.11-00.54.32:661][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/HUD/WB_HUD_DeadOverlay]
+[2025.01.11-00.54.32:665][ 54]LogSavePackage: Moving output files for package: /Game/SpawnTile/HUD/WB_HUD_DeadOverlay
+[2025.01.11-00.54.32:665][ 54]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/WB_HUD_DeadOverlay9A822322447F918D56D976AC96E5C78E.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/HUD/WB_HUD_DeadOverlay.uasset'
+[2025.01.11-00.54.32:673][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.393 ms (total: 2.99 sec)
+[2025.01.11-00.54.32:710][ 54]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-00.54.32:710][ 54]LogContentValidation: Enabled validators:
+[2025.01.11-00.54.32:710][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-00.54.32:710][ 54]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-00.54.32:710][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-00.54.32:710][ 54]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-00.54.32:710][ 54]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-00.54.32:710][ 54]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-00.54.32:710][ 54]AssetCheck: /Game/SpawnTile/HUD/WB_HUD_DeadOverlay Validating asset
+[2025.01.11-00.54.33:447][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-00.54.33:479][141]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpawnTile/HUD/WB_HUD_DeadOverlay] ([2] browsable assets)...
+[2025.01.11-00.54.33:479][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/HUD/WB_HUD_DeadOverlay]
+[2025.01.11-00.54.33:481][141]LogSavePackage: Moving output files for package: /Game/SpawnTile/HUD/WB_HUD_DeadOverlay
+[2025.01.11-00.54.33:485][141]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/WB_HUD_DeadOverlay639D78C74686EC72657DC6B3742AF6F1.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/HUD/WB_HUD_DeadOverlay.uasset'
+[2025.01.11-00.54.33:492][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.079 ms (total: 3.03 sec)
+[2025.01.11-00.54.33:530][141]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-00.54.33:530][141]LogContentValidation: Enabled validators:
+[2025.01.11-00.54.33:530][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-00.54.33:530][141]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-00.54.33:530][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-00.54.33:530][141]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-00.54.33:530][141]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-00.54.33:530][141]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-00.54.33:531][141]AssetCheck: /Game/SpawnTile/HUD/WB_HUD_DeadOverlay Validating asset
+[2025.01.11-00.54.46:038][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.01.11-00.54.50:850][180]LogEditorTransaction: Undo Replace Widgets
+[2025.01.11-00.54.56:502][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.11-00.54.59:165][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-00.54.59:203][ 91]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnTile/HUD/WB_HUD_DeadOverlay] ([2] browsable assets)...
+[2025.01.11-00.54.59:204][ 91]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/SpawnTile/HUD/WB_HUD_DeadOverlay.WB_HUD_DeadOverlay]
+[2025.01.11-00.54.59:204][ 91]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/HUD/WB_HUD_DeadOverlay]
+[2025.01.11-00.54.59:207][ 91]LogSavePackage: Moving output files for package: /Game/SpawnTile/HUD/WB_HUD_DeadOverlay
+[2025.01.11-00.54.59:209][ 91]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/WB_HUD_DeadOverlay7C4CCFBC4901E549F0CE5F959BB63531.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/HUD/WB_HUD_DeadOverlay.uasset'
+[2025.01.11-00.54.59:216][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.866 ms (total: 3.08 sec)
+[2025.01.11-00.54.59:253][ 91]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-00.54.59:253][ 91]LogContentValidation: Enabled validators:
+[2025.01.11-00.54.59:253][ 91]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-00.54.59:253][ 91]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-00.54.59:253][ 91]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-00.54.59:253][ 91]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-00.54.59:253][ 91]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-00.54.59:253][ 91]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-00.54.59:253][ 91]AssetCheck: /Game/SpawnTile/HUD/WB_HUD_DeadOverlay Validating asset
+[2025.01.11-00.55.09:362][250]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpawnTile/HUD/BP_HUD_SpawnTile.BP_HUD_SpawnTile
+[2025.01.11-00.55.09:362][250]LogChaosDD: Creating Chaos Debug Draw Scene for world World_16
+[2025.01.11-00.55.31:586][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.01.11-00.56.09:430][110]LogBlueprint: Error: [AssetLog] C:\Users\Leroy\Documents\UnrealProjects\CAP_SpawnTile\Content\SpawnTile\HUD\BP_HUD_SpawnTile.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2025.01.11-00.56.09:432][110]LogStreaming: Display: FlushAsyncLoading(570): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.11-00.56.09:471][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.01.11-00.56.10:360][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-00.56.10:390][209]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnTile/HUD/BP_HUD_SpawnTile] ([2] browsable assets)...
+[2025.01.11-00.56.10:392][209]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/HUD/BP_HUD_SpawnTile]
+[2025.01.11-00.56.10:392][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpawnTile/HUD/BP_HUD_SpawnTile" FILE="../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/HUD/BP_HUD_SpawnTile.uasset" SILENT=true
+[2025.01.11-00.56.10:395][209]LogSavePackage: Moving output files for package: /Game/SpawnTile/HUD/BP_HUD_SpawnTile
+[2025.01.11-00.56.10:397][209]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/BP_HUD_SpawnTile7118A59446C43CC552C9898227831AD9.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/HUD/BP_HUD_SpawnTile.uasset'
+[2025.01.11-00.56.10:406][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.270 ms (total: 3.13 sec)
+[2025.01.11-00.56.10:441][209]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-00.56.10:442][209]LogContentValidation: Enabled validators:
+[2025.01.11-00.56.10:442][209]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-00.56.10:442][209]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-00.56.10:442][209]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-00.56.10:442][209]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-00.56.10:442][209]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-00.56.10:442][209]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-00.56.10:442][209]AssetCheck: /Game/SpawnTile/HUD/BP_HUD_SpawnTile Validating asset
+[2025.01.11-00.56.15:151][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.01.11-00.56.16:043][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-00.56.16:082][846]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnTile/HUD/BP_HUD_SpawnTile] ([2] browsable assets)...
+[2025.01.11-00.56.16:082][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/HUD/BP_HUD_SpawnTile]
+[2025.01.11-00.56.16:082][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpawnTile/HUD/BP_HUD_SpawnTile" FILE="../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/HUD/BP_HUD_SpawnTile.uasset" SILENT=true
+[2025.01.11-00.56.16:086][846]LogSavePackage: Moving output files for package: /Game/SpawnTile/HUD/BP_HUD_SpawnTile
+[2025.01.11-00.56.16:089][846]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/BP_HUD_SpawnTileF766C195454B61B0C9C64A9F27C8AE6B.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/HUD/BP_HUD_SpawnTile.uasset'
+[2025.01.11-00.56.16:096][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.056 ms (total: 3.18 sec)
+[2025.01.11-00.56.16:131][846]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-00.56.16:131][846]LogContentValidation: Enabled validators:
+[2025.01.11-00.56.16:131][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-00.56.16:131][846]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-00.56.16:131][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-00.56.16:131][846]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-00.56.16:131][846]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-00.56.16:131][846]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-00.56.16:131][846]AssetCheck: /Game/SpawnTile/HUD/BP_HUD_SpawnTile Validating asset
+[2025.01.11-00.56.18:106][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-00.56.18:143][ 81]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnTile/HUD/BP_HUD_SpawnTile] ([2] browsable assets)...
+[2025.01.11-00.56.18:143][ 81]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/HUD/BP_HUD_SpawnTile]
+[2025.01.11-00.56.18:143][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpawnTile/HUD/BP_HUD_SpawnTile" FILE="../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/HUD/BP_HUD_SpawnTile.uasset" SILENT=true
+[2025.01.11-00.56.18:146][ 81]LogSavePackage: Moving output files for package: /Game/SpawnTile/HUD/BP_HUD_SpawnTile
+[2025.01.11-00.56.18:147][ 81]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/BP_HUD_SpawnTile075ADA9D47A2B81F0714F2950F968232.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/HUD/BP_HUD_SpawnTile.uasset'
+[2025.01.11-00.56.18:154][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.374 ms (total: 3.23 sec)
+[2025.01.11-00.56.18:192][ 81]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-00.56.18:192][ 81]LogContentValidation: Enabled validators:
+[2025.01.11-00.56.18:192][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-00.56.18:192][ 81]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-00.56.18:192][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-00.56.18:192][ 81]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-00.56.18:192][ 81]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-00.56.18:192][ 81]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-00.56.18:192][ 81]AssetCheck: /Game/SpawnTile/HUD/BP_HUD_SpawnTile Validating asset
+[2025.01.11-00.56.20:697][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.01.11-00.56.34:794][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.11-00.56.35:477][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-00.56.35:514][110]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnTile/HUD/WB_HUD_DeadOverlay] ([2] browsable assets)...
+[2025.01.11-00.56.35:516][110]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/SpawnTile/HUD/WB_HUD_DeadOverlay.WB_HUD_DeadOverlay]
+[2025.01.11-00.56.35:516][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/HUD/WB_HUD_DeadOverlay]
+[2025.01.11-00.56.35:519][110]LogSavePackage: Moving output files for package: /Game/SpawnTile/HUD/WB_HUD_DeadOverlay
+[2025.01.11-00.56.35:520][110]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/WB_HUD_DeadOverlayE7429FFF46016734699A1BB35332C002.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/HUD/WB_HUD_DeadOverlay.uasset'
+[2025.01.11-00.56.35:527][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.530 ms (total: 3.28 sec)
+[2025.01.11-00.56.35:564][110]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-00.56.35:564][110]LogContentValidation: Enabled validators:
+[2025.01.11-00.56.35:564][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-00.56.35:564][110]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-00.56.35:564][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-00.56.35:564][110]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-00.56.35:564][110]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-00.56.35:564][110]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-00.56.35:564][110]AssetCheck: /Game/SpawnTile/HUD/WB_HUD_DeadOverlay Validating asset
+[2025.01.11-00.56.41:495][783]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/SpawnTile/HUD/WB_HUD_SpawnTile.WB_HUD_SpawnTile
+[2025.01.11-00.56.41:496][783]LogChaosDD: Creating Chaos Debug Draw Scene for world World_18
+[2025.01.11-00.56.41:502][783]LogChaosDD: Creating Chaos Debug Draw Scene for world World_19
+[2025.01.11-00.56.41:606][783]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2025.01.11-00.56.41:606][783]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2025.01.11-00.57.04:593][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.11-00.57.05:333][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-00.57.05:358][490]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnTile/HUD/WB_HUD_SpawnTile] ([2] browsable assets)...
+[2025.01.11-00.57.05:360][490]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/SpawnTile/HUD/WB_HUD_SpawnTile.WB_HUD_SpawnTile]
+[2025.01.11-00.57.05:360][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/HUD/WB_HUD_SpawnTile]
+[2025.01.11-00.57.05:360][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpawnTile/HUD/WB_HUD_SpawnTile" FILE="../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/HUD/WB_HUD_SpawnTile.uasset" SILENT=true
+[2025.01.11-00.57.05:362][490]LogSavePackage: Moving output files for package: /Game/SpawnTile/HUD/WB_HUD_SpawnTile
+[2025.01.11-00.57.05:364][490]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/WB_HUD_SpawnTileF26DDC56483091412475419208AF714D.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/HUD/WB_HUD_SpawnTile.uasset'
+[2025.01.11-00.57.05:373][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.297 ms (total: 3.32 sec)
+[2025.01.11-00.57.05:407][490]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-00.57.05:407][490]LogContentValidation: Enabled validators:
+[2025.01.11-00.57.05:407][490]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-00.57.05:407][490]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-00.57.05:407][490]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-00.57.05:407][490]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-00.57.05:407][490]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-00.57.05:407][490]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-00.57.05:407][490]AssetCheck: /Game/SpawnTile/HUD/WB_HUD_SpawnTile Validating asset
+[2025.01.11-00.57.05:871][544]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-00.57.05:907][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpawnTile/HUD/WB_HUD_SpawnTile] ([2] browsable assets)...
+[2025.01.11-00.57.05:907][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/HUD/WB_HUD_SpawnTile]
+[2025.01.11-00.57.05:907][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpawnTile/HUD/WB_HUD_SpawnTile" FILE="../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/HUD/WB_HUD_SpawnTile.uasset" SILENT=true
+[2025.01.11-00.57.05:911][544]LogSavePackage: Moving output files for package: /Game/SpawnTile/HUD/WB_HUD_SpawnTile
+[2025.01.11-00.57.05:914][544]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/WB_HUD_SpawnTile33515BE542F3A025EB097DA628B4F04E.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/HUD/WB_HUD_SpawnTile.uasset'
+[2025.01.11-00.57.05:921][544]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.202 ms (total: 3.37 sec)
+[2025.01.11-00.57.05:957][544]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-00.57.05:957][544]LogContentValidation: Enabled validators:
+[2025.01.11-00.57.05:957][544]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-00.57.05:957][544]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-00.57.05:957][544]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-00.57.05:957][544]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-00.57.05:957][544]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-00.57.05:957][544]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-00.57.05:958][544]AssetCheck: /Game/SpawnTile/HUD/WB_HUD_SpawnTile Validating asset
+[2025.01.11-00.57.11:946][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.01.11-00.57.12:720][299]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-00.57.12:758][299]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnTile/HUD/WB_HUD_SpawnTile] ([2] browsable assets)...
+[2025.01.11-00.57.12:761][299]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/SpawnTile/HUD/WB_HUD_SpawnTile.WB_HUD_SpawnTile]
+[2025.01.11-00.57.12:761][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/HUD/WB_HUD_SpawnTile]
+[2025.01.11-00.57.12:761][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpawnTile/HUD/WB_HUD_SpawnTile" FILE="../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/HUD/WB_HUD_SpawnTile.uasset" SILENT=true
+[2025.01.11-00.57.12:763][299]LogSavePackage: Moving output files for package: /Game/SpawnTile/HUD/WB_HUD_SpawnTile
+[2025.01.11-00.57.12:764][299]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/WB_HUD_SpawnTileE94EB27040886B20D65568B64B1FEE31.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/HUD/WB_HUD_SpawnTile.uasset'
+[2025.01.11-00.57.12:772][299]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.957 ms (total: 3.42 sec)
+[2025.01.11-00.57.12:798][299]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-00.57.12:798][299]LogContentValidation: Enabled validators:
+[2025.01.11-00.57.12:798][299]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-00.57.12:798][299]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-00.57.12:798][299]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-00.57.12:798][299]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-00.57.12:798][299]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-00.57.12:799][299]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-00.57.12:799][299]AssetCheck: /Game/SpawnTile/HUD/WB_HUD_SpawnTile Validating asset
+[2025.01.11-00.57.27:352][998]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3217.347412
+[2025.01.11-00.57.27:494][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.11-00.57.27:494][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3217.480957, Update Interval: 345.215607
+[2025.01.11-00.57.54:374][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.01.11-00.57.55:215][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-00.57.55:253][143]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnTile/HUD/WB_HUD_DeadOverlay] ([2] browsable assets)...
+[2025.01.11-00.57.55:255][143]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/SpawnTile/HUD/WB_HUD_DeadOverlay.WB_HUD_DeadOverlay]
+[2025.01.11-00.57.55:255][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/HUD/WB_HUD_DeadOverlay]
+[2025.01.11-00.57.55:259][143]LogSavePackage: Moving output files for package: /Game/SpawnTile/HUD/WB_HUD_DeadOverlay
+[2025.01.11-00.57.55:261][143]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/WB_HUD_DeadOverlayEBFD73024D597092873D6494FD9BC71D.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/HUD/WB_HUD_DeadOverlay.uasset'
+[2025.01.11-00.57.55:270][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.413 ms (total: 3.48 sec)
+[2025.01.11-00.57.55:304][143]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-00.57.55:304][143]LogContentValidation: Enabled validators:
+[2025.01.11-00.57.55:304][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-00.57.55:304][143]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-00.57.55:304][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-00.57.55:304][143]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-00.57.55:304][143]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-00.57.55:304][143]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-00.57.55:304][143]AssetCheck: /Game/SpawnTile/HUD/WB_HUD_DeadOverlay Validating asset
+[2025.01.11-00.58.12:228][ 27]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2025.01.11-00.58.12:235][ 27]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2025.01.11-00.58.12:245][ 28]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2025.01.11-00.58.15:224][361]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> E_Team
+[2025.01.11-00.58.15:225][361]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2025.01.11-00.58.18:201][663]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpawnTile/Character/BP_TopDownCharacter.BP_TopDownCharacter
+[2025.01.11-00.58.18:203][663]LogChaosDD: Creating Chaos Debug Draw Scene for world World_24
+[2025.01.11-00.58.18:725][667]LogChaosDD: Creating Chaos Debug Draw Scene for world World_25
+[2025.01.11-00.58.33:083][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.01.11-00.58.34:037][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-00.58.34:078][399]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpawnTile/Character/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.01.11-00.58.34:136][399]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnTile/Character/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.01.11-00.58.34:136][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/Character/BP_TopDownCharacter]
+[2025.01.11-00.58.34:140][399]LogSavePackage: Moving output files for package: /Game/SpawnTile/Character/BP_TopDownCharacter
+[2025.01.11-00.58.34:140][399]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/BP_TopDownCharacter7239513C45BC420A535E3EA1593EF219.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/Character/BP_TopDownCharacter.uasset'
+[2025.01.11-00.58.34:150][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.631 ms (total: 3.59 sec)
+[2025.01.11-00.58.34:188][399]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-00.58.34:188][399]LogContentValidation: Enabled validators:
+[2025.01.11-00.58.34:188][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-00.58.34:188][399]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-00.58.34:188][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-00.58.34:188][399]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-00.58.34:188][399]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-00.58.34:188][399]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-00.58.34:188][399]AssetCheck: /Game/SpawnTile/Character/BP_TopDownCharacter Validating asset
+[2025.01.11-00.58.44:030][490]LogContentBrowser: Deferred new asset file creation: BP_TopDownCharacter_Child
+[2025.01.11-00.58.44:038][490]LogContentBrowser: Creating deferred item: BP_TopDownCharacter_Child
+[2025.01.11-00.58.44:049][491]LogContentBrowser: Renaming the item being created (Deferred Item: BP_TopDownCharacter_Child).
+[2025.01.11-00.58.49:417][ 64]LogContentBrowser: Attempting asset rename: BP_TopDownCharacter_Child -> BP_TopDownCharacter_Player
+[2025.01.11-00.58.49:423][ 64]LogContentBrowser: End creating deferred item BP_TopDownCharacter_Child
+[2025.01.11-00.58.49:425][ 64]LogChaosDD: Creating Chaos Debug Draw Scene for world World_26
+[2025.01.11-00.58.54:123][559]LogContentBrowser: Deferred new asset file creation: BP_TopDownCharacter_Player1
+[2025.01.11-00.58.54:131][559]LogContentBrowser: Creating deferred item: BP_TopDownCharacter_Player1
+[2025.01.11-00.58.54:142][560]LogContentBrowser: Renaming the item being created (Deferred Item: BP_TopDownCharacter_Player1).
+[2025.01.11-00.58.58:728][ 47]LogContentBrowser: Attempting asset rename: BP_TopDownCharacter_Player1 -> BP_TopDownCharacter_NPC
+[2025.01.11-00.58.58:757][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.01.11-00.58.58:772][ 47]LogContentBrowser: End creating deferred item BP_TopDownCharacter_Player1
+[2025.01.11-00.58.58:773][ 47]LogChaosDD: Creating Chaos Debug Draw Scene for world World_27
+[2025.01.11-00.59.00:865][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.11-00.59.02:336][256]LogSlate: Window 'Save Content' being destroyed
+[2025.01.11-00.59.02:346][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-00.59.02:372][256]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnTile/Character/BP_TopDownCharacter_NPC] ([2] browsable assets)...
+[2025.01.11-00.59.02:420][256]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnTile/Character/BP_TopDownCharacter_NPC.BP_TopDownCharacter_NPC]
+[2025.01.11-00.59.02:420][256]LogChaosDD: Creating Chaos Debug Draw Scene for world World_28
+[2025.01.11-00.59.02:433][256]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/SpawnTile/Character/BP_TopDownCharacter_NPC.BP_TopDownCharacter_NPC_C]
+[2025.01.11-00.59.02:433][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/Character/BP_TopDownCharacter_NPC]
+[2025.01.11-00.59.02:437][256]LogSavePackage: Moving output files for package: /Game/SpawnTile/Character/BP_TopDownCharacter_NPC
+[2025.01.11-00.59.02:437][256]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/BP_TopDownCharacter_NPC4EF05E52455867A2417C9C9A177A4EF2.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/Character/BP_TopDownCharacter_NPC.uasset'
+[2025.01.11-00.59.02:441][256]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnTile/Character/BP_TopDownCharacter_Player] ([2] browsable assets)...
+[2025.01.11-00.59.02:447][256]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnTile/Character/BP_TopDownCharacter_Player.BP_TopDownCharacter_Player]
+[2025.01.11-00.59.02:447][256]LogChaosDD: Creating Chaos Debug Draw Scene for world World_29
+[2025.01.11-00.59.02:461][256]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/SpawnTile/Character/BP_TopDownCharacter_Player.BP_TopDownCharacter_Player_C]
+[2025.01.11-00.59.02:463][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/Character/BP_TopDownCharacter_Player]
+[2025.01.11-00.59.02:466][256]LogSavePackage: Moving output files for package: /Game/SpawnTile/Character/BP_TopDownCharacter_Player
+[2025.01.11-00.59.02:466][256]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/BP_TopDownCharacter_PlayerE52CAB8542D8D5697C7F148B03EC3D35.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/Character/BP_TopDownCharacter_Player.uasset'
+[2025.01.11-00.59.02:469][256]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnTile/System/Enum/E_Team] ([1] browsable assets)...
+[2025.01.11-00.59.02:469][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/System/Enum/E_Team]
+[2025.01.11-00.59.02:469][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpawnTile/System/Enum/E_Team" FILE="../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/System/Enum/E_Team.uasset" SILENT=true
+[2025.01.11-00.59.02:470][256]LogSavePackage: Moving output files for package: /Game/SpawnTile/System/Enum/E_Team
+[2025.01.11-00.59.02:470][256]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/E_Team644A56014025AF1E1269F9BC074583C7.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/System/Enum/E_Team.uasset'
+[2025.01.11-00.59.02:479][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.313 ms (total: 3.72 sec)
+[2025.01.11-00.59.02:523][256]LogContentValidation: Display: Starting to validate 3 assets
+[2025.01.11-00.59.02:523][256]LogContentValidation: Enabled validators:
+[2025.01.11-00.59.02:523][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-00.59.02:523][256]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-00.59.02:523][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-00.59.02:523][256]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-00.59.02:523][256]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-00.59.02:523][256]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-00.59.02:523][256]AssetCheck: /Game/SpawnTile/Character/BP_TopDownCharacter_NPC Validating asset
+[2025.01.11-00.59.02:523][256]AssetCheck: /Game/SpawnTile/Character/BP_TopDownCharacter_Player Validating asset
+[2025.01.11-00.59.02:523][256]AssetCheck: /Game/SpawnTile/System/Enum/E_Team Validating asset
+[2025.01.11-00.59.09:760][928]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SpawnTile/Character/BP_TopDownCharacter_NPC.BP_TopDownCharacter_NPC_C
+[2025.01.11-00.59.09:760][928]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SpawnTile/Character/BP_TopDownCharacter_NPC.BP_TopDownCharacter_NPC_C
+[2025.01.11-00.59.09:765][928]LogActorFactory: Actor Factory spawned Blueprint /Game/SpawnTile/Character/BP_TopDownCharacter_NPC.BP_TopDownCharacter_NPC as actor: BP_TopDownCharacter_NPC_C /Game/SpawnTile/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_NPC_C_0
+[2025.01.11-00.59.09:767][928]LogActorFactory: Actor Factory spawned Blueprint /Game/SpawnTile/Character/BP_TopDownCharacter_NPC.BP_TopDownCharacter_NPC as actor: BP_TopDownCharacter_NPC_C /Game/SpawnTile/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_NPC_C_0
+[2025.01.11-00.59.10:584][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.01.11-00.59.10:586][999]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.01.11-00.59.10:590][999]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SpawnTile/Character/BP_TopDownCharacter_NPC.BP_TopDownCharacter_NPC_C
+[2025.01.11-00.59.10:591][999]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SpawnTile/Character/BP_TopDownCharacter_NPC.BP_TopDownCharacter_NPC_C
+[2025.01.11-00.59.10:596][999]LogActorFactory: Actor Factory spawned Blueprint /Game/SpawnTile/Character/BP_TopDownCharacter_NPC.BP_TopDownCharacter_NPC as actor: BP_TopDownCharacter_NPC_C /Game/SpawnTile/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_NPC_C_UAID_04421A1F54FA6B4102_1981649973
+[2025.01.11-00.59.10:598][999]LogActorFactory: Actor Factory spawned Blueprint /Game/SpawnTile/Character/BP_TopDownCharacter_NPC.BP_TopDownCharacter_NPC as actor: BP_TopDownCharacter_NPC_C /Game/SpawnTile/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_NPC_C_UAID_04421A1F54FA6B4102_1981649973
+[2025.01.11-00.59.14:431][315]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpawnTile/Character/BP_TopDownCharacter_NPC.BP_TopDownCharacter_NPC
+[2025.01.11-00.59.14:433][315]LogChaosDD: Creating Chaos Debug Draw Scene for world World_30
+[2025.01.11-00.59.16:285][476]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.01.11-00.59.18:833][765]LogStreaming: Display: FlushAsyncLoading(571): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.11-00.59.19:721][843]LogChaosDD: Creating Chaos Debug Draw Scene for world World_31
+[2025.01.11-00.59.20:913][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.11-00.59.21:629][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-00.59.21:663][  7]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpawnTile/Character/BP_TopDownCharacter_NPC] ([2] browsable assets)...
+[2025.01.11-00.59.21:703][  7]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnTile/Character/BP_TopDownCharacter_NPC.BP_TopDownCharacter_NPC]
+[2025.01.11-00.59.21:703][  7]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/Character/BP_TopDownCharacter_NPC]
+[2025.01.11-00.59.21:707][  7]LogSavePackage: Moving output files for package: /Game/SpawnTile/Character/BP_TopDownCharacter_NPC
+[2025.01.11-00.59.21:708][  7]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/BP_TopDownCharacter_NPCFD0503E34BC4DB9955CFEFB459E8CC2D.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/Character/BP_TopDownCharacter_NPC.uasset'
+[2025.01.11-00.59.21:717][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.701 ms (total: 3.81 sec)
+[2025.01.11-00.59.21:752][  7]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-00.59.21:752][  7]LogContentValidation: Enabled validators:
+[2025.01.11-00.59.21:752][  7]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-00.59.21:752][  7]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-00.59.21:752][  7]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-00.59.21:752][  7]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-00.59.21:752][  7]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-00.59.21:752][  7]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-00.59.21:752][  7]AssetCheck: /Game/SpawnTile/Character/BP_TopDownCharacter_NPC Validating asset
+[2025.01.11-00.59.33:497][239]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2025.01.11-00.59.36:151][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.11-00.59.36:591][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-00.59.36:627][526]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpawnTile/Character/BP_TopDownCharacter_NPC] ([2] browsable assets)...
+[2025.01.11-00.59.36:671][526]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnTile/Character/BP_TopDownCharacter_NPC.BP_TopDownCharacter_NPC]
+[2025.01.11-00.59.36:671][526]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/Character/BP_TopDownCharacter_NPC]
+[2025.01.11-00.59.36:676][526]LogSavePackage: Moving output files for package: /Game/SpawnTile/Character/BP_TopDownCharacter_NPC
+[2025.01.11-00.59.36:676][526]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/BP_TopDownCharacter_NPC491936444496CA9B658570B9A94FD3E6.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/Character/BP_TopDownCharacter_NPC.uasset'
+[2025.01.11-00.59.36:686][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.300 ms (total: 3.91 sec)
+[2025.01.11-00.59.36:716][526]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-00.59.36:716][526]LogContentValidation: Enabled validators:
+[2025.01.11-00.59.36:716][526]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-00.59.36:716][526]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-00.59.36:716][526]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-00.59.36:716][526]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-00.59.36:716][526]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-00.59.36:716][526]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-00.59.36:716][526]AssetCheck: /Game/SpawnTile/Character/BP_TopDownCharacter_NPC Validating asset
+[2025.01.11-01.00.07:283][617]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/SpawnTile/System/Enum/E_Team.E_Team
+[2025.01.11-01.00.25:545][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-01.00.25:581][755]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnTile/System/Enum/E_Team] ([1] browsable assets)...
+[2025.01.11-01.00.25:581][755]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/System/Enum/E_Team]
+[2025.01.11-01.00.25:581][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpawnTile/System/Enum/E_Team" FILE="../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/System/Enum/E_Team.uasset" SILENT=true
+[2025.01.11-01.00.25:583][755]LogSavePackage: Moving output files for package: /Game/SpawnTile/System/Enum/E_Team
+[2025.01.11-01.00.25:583][755]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/E_Team5EC93B8641252F699B4A708FAB2B9A91.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/System/Enum/E_Team.uasset'
+[2025.01.11-01.00.25:592][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.557 ms (total: 3.95 sec)
+[2025.01.11-01.00.25:633][755]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-01.00.25:633][755]LogContentValidation: Enabled validators:
+[2025.01.11-01.00.25:633][755]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-01.00.25:633][755]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-01.00.25:633][755]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-01.00.25:633][755]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-01.00.25:633][755]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-01.00.25:633][755]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-01.00.25:633][755]AssetCheck: /Game/SpawnTile/System/Enum/E_Team Validating asset
+[2025.01.11-01.00.26:280][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-01.00.26:321][832]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnTile/System/Enum/E_Team] ([1] browsable assets)...
+[2025.01.11-01.00.26:321][832]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/System/Enum/E_Team]
+[2025.01.11-01.00.26:321][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpawnTile/System/Enum/E_Team" FILE="../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/System/Enum/E_Team.uasset" SILENT=true
+[2025.01.11-01.00.26:322][832]LogSavePackage: Moving output files for package: /Game/SpawnTile/System/Enum/E_Team
+[2025.01.11-01.00.26:324][832]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/E_Team354E67B742EF3D805D5ACD83DA26343B.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/System/Enum/E_Team.uasset'
+[2025.01.11-01.00.26:331][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.573 ms (total: 4.00 sec)
+[2025.01.11-01.00.26:370][832]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-01.00.26:370][832]LogContentValidation: Enabled validators:
+[2025.01.11-01.00.26:370][832]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-01.00.26:370][832]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-01.00.26:370][832]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-01.00.26:370][832]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-01.00.26:370][832]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-01.00.26:370][832]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-01.00.26:370][832]AssetCheck: /Game/SpawnTile/System/Enum/E_Team Validating asset
+[2025.01.11-01.00.41:472][203]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SpawnTile/Character/BP_TopDownCharacter_NPC.BP_TopDownCharacter_NPC_C
+[2025.01.11-01.00.41:472][203]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SpawnTile/Character/BP_TopDownCharacter_NPC.BP_TopDownCharacter_NPC_C
+[2025.01.11-01.00.41:475][203]LogActorFactory: Actor Factory spawned Blueprint /Game/SpawnTile/Character/BP_TopDownCharacter_NPC.BP_TopDownCharacter_NPC as actor: BP_TopDownCharacter_NPC_C /Game/SpawnTile/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_NPC_C_1
+[2025.01.11-01.00.41:477][203]LogActorFactory: Actor Factory spawned Blueprint /Game/SpawnTile/Character/BP_TopDownCharacter_NPC.BP_TopDownCharacter_NPC as actor: BP_TopDownCharacter_NPC_C /Game/SpawnTile/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_NPC_C_1
+[2025.01.11-01.00.42:148][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.01.11-01.00.42:151][236]LogEditorActor: Deleted 0 Actors (0.064 secs)
+[2025.01.11-01.00.42:155][236]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SpawnTile/Character/BP_TopDownCharacter_NPC.BP_TopDownCharacter_NPC_C
+[2025.01.11-01.00.42:155][236]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SpawnTile/Character/BP_TopDownCharacter_NPC.BP_TopDownCharacter_NPC_C
+[2025.01.11-01.00.42:161][236]LogActorFactory: Actor Factory spawned Blueprint /Game/SpawnTile/Character/BP_TopDownCharacter_NPC.BP_TopDownCharacter_NPC as actor: BP_TopDownCharacter_NPC_C /Game/SpawnTile/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_NPC_C_UAID_04421A1F54FA6B4102_2073214974
+[2025.01.11-01.00.42:164][236]LogActorFactory: Actor Factory spawned Blueprint /Game/SpawnTile/Character/BP_TopDownCharacter_NPC.BP_TopDownCharacter_NPC as actor: BP_TopDownCharacter_NPC_C /Game/SpawnTile/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_NPC_C_UAID_04421A1F54FA6B4102_2073214974
+[2025.01.11-01.00.44:608][415]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SpawnTile/Character/BP_TopDownCharacter_Player.BP_TopDownCharacter_Player_C
+[2025.01.11-01.00.44:608][415]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SpawnTile/Character/BP_TopDownCharacter_Player.BP_TopDownCharacter_Player_C
+[2025.01.11-01.00.44:614][415]LogActorFactory: Actor Factory spawned Blueprint /Game/SpawnTile/Character/BP_TopDownCharacter_Player.BP_TopDownCharacter_Player as actor: BP_TopDownCharacter_Player_C /Game/SpawnTile/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_Player_C_0
+[2025.01.11-01.00.44:617][415]LogActorFactory: Actor Factory spawned Blueprint /Game/SpawnTile/Character/BP_TopDownCharacter_Player.BP_TopDownCharacter_Player as actor: BP_TopDownCharacter_Player_C /Game/SpawnTile/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_Player_C_0
+[2025.01.11-01.00.47:100][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.01.11-01.00.47:103][601]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.01.11-01.00.47:109][601]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SpawnTile/Character/BP_TopDownCharacter_Player.BP_TopDownCharacter_Player_C
+[2025.01.11-01.00.47:109][601]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SpawnTile/Character/BP_TopDownCharacter_Player.BP_TopDownCharacter_Player_C
+[2025.01.11-01.00.47:114][601]LogActorFactory: Actor Factory spawned Blueprint /Game/SpawnTile/Character/BP_TopDownCharacter_Player.BP_TopDownCharacter_Player as actor: BP_TopDownCharacter_Player_C /Game/SpawnTile/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_Player_C_UAID_04421A1F54FA6B4102_2078168975
+[2025.01.11-01.00.47:118][601]LogActorFactory: Actor Factory spawned Blueprint /Game/SpawnTile/Character/BP_TopDownCharacter_Player.BP_TopDownCharacter_Player as actor: BP_TopDownCharacter_Player_C /Game/SpawnTile/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_Player_C_UAID_04421A1F54FA6B4102_2078168975
+[2025.01.11-01.00.55:046][292]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-01.00.55:115][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.01.11-01.00.55:141][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.01.11-01.00.55:161][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.01.11-01.00.55:164][292]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/SpawnTile/Maps/TopDownMap/8/D4/ZYN3S0036WS7FFCEMLTJTO
+[2025.01.11-01.00.55:164][292]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/ZYN3S0036WS7FFCEMLTJTOE0227BD94EB8B2123BD39DA9912A6491.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/__ExternalActors__/SpawnTile/Maps/TopDownMap/8/D4/ZYN3S0036WS7FFCEMLTJTO.uasset'
+[2025.01.11-01.00.55:168][292]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/SpawnTile/Maps/TopDownMap/B/EL/TH861BPJMHP4XNXG9LRFGQ
+[2025.01.11-01.00.55:168][292]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/TH861BPJMHP4XNXG9LRFGQ677718624BC3C55D6FBA3887F8A936A0.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/__ExternalActors__/SpawnTile/Maps/TopDownMap/B/EL/TH861BPJMHP4XNXG9LRFGQ.uasset'
+[2025.01.11-01.00.55:171][292]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/SpawnTile/Maps/TopDownMap/0/ZN/FE089GQD8P2GOOO8O243JH
+[2025.01.11-01.00.55:171][292]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/FE089GQD8P2GOOO8O243JHB3C3BDE744EF5F6BF714DC9F62763980.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/__ExternalActors__/SpawnTile/Maps/TopDownMap/0/ZN/FE089GQD8P2GOOO8O243JH.uasset'
+[2025.01.11-01.00.55:180][292]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.908 ms (total: 4.14 sec)
+[2025.01.11-01.00.55:204][292]LogContentValidation: Display: Starting to validate 5 assets
+[2025.01.11-01.00.55:204][292]LogContentValidation: Enabled validators:
+[2025.01.11-01.00.55:204][292]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-01.00.55:204][292]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-01.00.55:204][292]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-01.00.55:204][292]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-01.00.55:204][292]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-01.00.55:204][292]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-01.00.55:204][292]AssetCheck: /Game/SpawnTile/Maps/TopDownMap Validating asset
+[2025.01.11-01.01.02:384][ 32]LogShaderCompilers: Display: ================================================
+[2025.01.11-01.01.02:384][ 32]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.11-01.01.02:384][ 32]LogShaderCompilers: Display: Total job queries 1,402, among them cache hits 221 (15.76%), DDC hits 1,163 (82.95%), Duplicates 3 (0.21%)
+[2025.01.11-01.01.02:384][ 32]LogShaderCompilers: Display: Tracking 1,178 distinct input hashes that result in 916 distinct outputs (77.76%)
+[2025.01.11-01.01.02:384][ 32]LogShaderCompilers: Display: RAM used: 580.32 KiB of 1.60 GiB budget. Usage: 0.03%
+[2025.01.11-01.01.02:384][ 32]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.11-01.01.02:384][ 32]LogShaderCompilers: Display: Shaders Compiled: 15
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: Jobs assigned 15, completed 15 (100%)
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: Average time worker was idle: 1667.14 s
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.06 s
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: Job execution time: average 1.11 s, max 2.05 s
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: Job life time (pending + execution): average 1.14 s, max 2.06
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: Shader code size: average 7.846 KiB, min 4.293 KiB, max 11.957 KiB
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.61 s
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.21%
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: Jobs were issued in 15 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: Average processing rate: 3.26 jobs/sec
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: Total thread time: 6.972 s
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: Total thread preprocess time: 22.969 s
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: Percentage time preprocessing: 329.46%
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: Effective parallelization: 1.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.89 sec, max 0.89 sec, min 0.89 sec)
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.85 sec, max 0.88 sec, min 0.83 sec)
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.48 sec, max 0.50 sec, min 0.45 sec)
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    3 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.33 sec, max 0.37 sec, min 0.29 sec)
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 24.52% of total time (compiled    2 times, average 0.85 sec, max 0.88 sec, min 0.83 sec)
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.78% of total time (compiled    3 times, average 0.48 sec, max 0.50 sec, min 0.45 sec)
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display:                                                 FLumenCardPS - 14.68% of total time (compiled    3 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.20% of total time (compiled    3 times, average 0.33 sec, max 0.37 sec, min 0.29 sec)
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.12% of total time (compiled    3 times, average 0.30 sec, max 0.33 sec, min 0.28 sec)
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: === Material stats ===
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: Materials Translated:    138
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: Material Translation Only: 0.06 s (51%)
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.01.11-01.01.02:385][ 32]LogShaderCompilers: Display: ================================================
+[2025.01.11-01.01.07:954][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.01.11-01.01.08:960][494]LogSlate: Window 'Save Content' being destroyed
+[2025.01.11-01.01.08:969][494]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-01.01.09:009][494]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/SpawnTile/Maps/TopDownMap/0/ZN/FE089GQD8P2GOOO8O243JH
+[2025.01.11-01.01.09:010][494]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/FE089GQD8P2GOOO8O243JHF27E984C41F77D7A6A5C8FB96E8A0FC8.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/__ExternalActors__/SpawnTile/Maps/TopDownMap/0/ZN/FE089GQD8P2GOOO8O243JH.uasset'
+[2025.01.11-01.01.09:018][494]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.557 ms (total: 4.19 sec)
+[2025.01.11-01.01.09:055][494]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-01.01.09:055][494]LogContentValidation: Enabled validators:
+[2025.01.11-01.01.09:055][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-01.01.09:056][494]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-01.01.09:056][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-01.01.09:056][494]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-01.01.09:056][494]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-01.01.09:056][494]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-01.01.09:056][494]AssetCheck: /Game/SpawnTile/Maps/TopDownMap Validating asset
+[2025.01.11-01.01.14:804][988]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.11-01.01.14:858][988]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.11-01.01.14:872][989]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.11-01.01.18:695][314]LogContentBrowser: Attempting asset rename: NewFolder -> Camera
+[2025.01.11-01.01.18:695][314]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.11-01.01.33:689][ 56]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.01.11-01.01.33:695][ 56]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.01.11-01.01.33:703][ 56]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.01.11-01.01.33:727][ 58]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.01.11-01.01.38:829][478]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Pawn_Camera
+[2025.01.11-01.01.38:835][478]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.01.11-01.01.40:738][640]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpawnTile/Player/Camera/BP_Pawn_Camera.BP_Pawn_Camera
+[2025.01.11-01.01.40:738][640]LogChaosDD: Creating Chaos Debug Draw Scene for world World_32
+[2025.01.11-01.01.53:266][964]LogStreaming: Display: FlushAsyncLoading(572): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.11-01.01.55:243][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.01.11-01.01.56:418][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-01.01.56:451][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnTile/Player/Camera/BP_Pawn_Camera] ([2] browsable assets)...
+[2025.01.11-01.01.56:451][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/Player/Camera/BP_Pawn_Camera]
+[2025.01.11-01.01.56:454][219]LogSavePackage: Moving output files for package: /Game/SpawnTile/Player/Camera/BP_Pawn_Camera
+[2025.01.11-01.01.56:454][219]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/BP_Pawn_Camera4146AC9A4413369048507BB35B42C1D4.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/Player/Camera/BP_Pawn_Camera.uasset'
+[2025.01.11-01.01.56:464][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.006 ms (total: 4.23 sec)
+[2025.01.11-01.01.56:500][219]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-01.01.56:500][219]LogContentValidation: Enabled validators:
+[2025.01.11-01.01.56:500][219]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-01.01.56:500][219]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-01.01.56:500][219]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-01.01.56:500][219]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-01.01.56:500][219]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-01.01.56:500][219]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-01.01.56:500][219]AssetCheck: /Game/SpawnTile/Player/Camera/BP_Pawn_Camera Validating asset
+[2025.01.11-01.02.26:587][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.01.11-01.02.27:564][910]LogSlate: Window 'Save Content' being destroyed
+[2025.01.11-01.02.27:572][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-01.02.27:605][910]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnTile/System/BP_GM_SpawnTiler] ([2] browsable assets)...
+[2025.01.11-01.02.27:605][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnTile/System/BP_GM_SpawnTiler]
+[2025.01.11-01.02.27:608][910]LogSavePackage: Moving output files for package: /Game/SpawnTile/System/BP_GM_SpawnTiler
+[2025.01.11-01.02.27:609][910]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/BP_GM_SpawnTiler9F4DA336430465A36D0C2EB2950B6C6A.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/SpawnTile/System/BP_GM_SpawnTiler.uasset'
+[2025.01.11-01.02.27:612][910]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/SpawnTile/Maps/TopDownMap/8/D4/ZYN3S0036WS7FFCEMLTJTO
+[2025.01.11-01.02.27:614][910]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/ZYN3S0036WS7FFCEMLTJTOB7EDE1D04CE246C0523D089A13BBC638.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/__ExternalActors__/SpawnTile/Maps/TopDownMap/8/D4/ZYN3S0036WS7FFCEMLTJTO.uasset'
+[2025.01.11-01.02.27:617][910]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/SpawnTile/Maps/TopDownMap/B/EL/TH861BPJMHP4XNXG9LRFGQ
+[2025.01.11-01.02.27:618][910]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/TH861BPJMHP4XNXG9LRFGQ0D56E7494EED055820A25DB349CD85C1.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/__ExternalActors__/SpawnTile/Maps/TopDownMap/B/EL/TH861BPJMHP4XNXG9LRFGQ.uasset'
+[2025.01.11-01.02.27:621][910]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/SpawnTile/Maps/TopDownMap/0/ZN/FE089GQD8P2GOOO8O243JH
+[2025.01.11-01.02.27:622][910]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Saved/FE089GQD8P2GOOO8O243JHACEF8B3B487C6574F79D908789497D04.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/__ExternalActors__/SpawnTile/Maps/TopDownMap/0/ZN/FE089GQD8P2GOOO8O243JH.uasset'
+[2025.01.11-01.02.27:632][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.005 ms (total: 4.29 sec)
+[2025.01.11-01.02.27:674][910]LogContentValidation: Display: Starting to validate 6 assets
+[2025.01.11-01.02.27:674][910]LogContentValidation: Enabled validators:
+[2025.01.11-01.02.27:674][910]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-01.02.27:674][910]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-01.02.27:674][910]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-01.02.27:674][910]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-01.02.27:674][910]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-01.02.27:674][910]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-01.02.27:674][910]AssetCheck: /Game/SpawnTile/System/BP_GM_SpawnTiler Validating asset
+[2025.01.11-01.02.27:674][910]AssetCheck: /Game/SpawnTile/Maps/TopDownMap Validating asset
