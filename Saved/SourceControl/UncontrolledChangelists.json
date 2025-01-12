@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Github/LukeT/CAP_SpawnTile/Content/SpawnTile/Tile/BP_Actor_Tile.uasset",
+				"D:/Github/LukeT/CAP_SpawnTile/Content/SpawnTile/Player/BP_PC_SpawnTile.uasset",
+				"D:/Github/LukeT/CAP_SpawnTile/Content/SpawnTile/HUD/BP_HUD_SpawnTile.uasset",
 				"C:/Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/__ExternalActors__/SpawnTile/Maps/TopDownMap/C/37/0Y3IVU0LYMCIYFM68RKXYL.uasset",
 				"C:/Users/Leroy/Documents/UnrealProjects/CAP_SpawnTile/Content/__ExternalObjects__/SpawnTile/Maps/TopDownMap/D/YB/YA4E2LSLRZ1WX4M742AF0L.uasset",
